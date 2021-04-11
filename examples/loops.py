@@ -68,3 +68,17 @@ while True:
         print('To top of the loop')
         continue
 print("done !!")'''
+
+
+listOfNames = ["name1", "name2", "name3", "name4"]
+for names in listOfNames:
+    print("names are::{}".format(names))
+
+# dictionaries with conditional statements.
+alien = {'colour': 'red', 'x-coords': 12, 'y-coords': '19', 'height': '5 feet 4 inches'}
+if alien['colour'] == 'green':
+    print('Alien is cool')
+elif alien['colour'] == 'blue':
+    print('It\'s not cool')
+else:
+    print('can\'t determine the nature of alien')
