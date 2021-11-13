@@ -133,9 +133,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-<<<<<<< HEAD
 main.py
-=======
 
 # Test push
->>>>>>> 7b52403fb7a07581bddd3a8bbf5f0a006b11f948
