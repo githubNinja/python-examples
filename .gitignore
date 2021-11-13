@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized / DLL files-examples
 __pycache__/
 *.py[cod]
 *$py.class
@@ -34,7 +34,7 @@ share/python-wheels/
 MANIFEST
 
 # PyInstaller
-#  Usually these files are written by a python script from a template
+#  Usually these files-examples are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
@@ -104,7 +104,7 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
-# SageMath parsed files
+# SageMath parsed files-examples
 *.sage.py
 
 # Environments
@@ -133,3 +133,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+main.py

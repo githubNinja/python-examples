@@ -18,3 +18,5 @@ print('{} {} {}'.format('type of class is::', floatTypeOf, intTypeOf))
 # String format of Integer..
 i = int('457')
 print('{}'.format('hello in integer:'), i + 2)
+
+
