@@ -36,8 +36,7 @@ print('sarah\'s favourite_language is:{}'.format(fav_lang['sarah'].title()))
 notFound = fav_lang.get('Kran')
 print('lang for Kran::{}'.format(notFound))
 
-
-#looping thru dictionary using for loop
+# looping thru dictionary using for loop
 
 for key, value in fav_lang.items():
     print('key:{} and value::{}'.format(key.title(), value.title()))
